@@ -5,7 +5,6 @@ This repo contains all the code and data for the technical assessment for  SFL S
 ### Database & Python ETL
 - Provision one database of your choosing (I chose MySQL). 
 - Write a Python ETL that ingests the provided data, transforms it in some way, and loads it into the database.
-- See Task 1 Files for the completion of this assignment.
 
 ## Files:
 * DATA.csv = source file provided by SFL Science
